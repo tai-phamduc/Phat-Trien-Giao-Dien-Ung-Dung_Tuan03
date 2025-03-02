@@ -1,0 +1,24 @@
+.nav-first {
+    display: flex;
+    align-items: center;
+    gap: 16px
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    gap: 8px;
+}
+
+.menu-item {
+    text-decoration: none;
+    color: black;
+}
+
+.your-recipe-box {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    text-decoration: none;
+    color: #e09bb7;
+}
